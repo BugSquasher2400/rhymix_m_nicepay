@@ -1,5 +1,5 @@
-NICE 페이먼츠 결제
+#NICE 페이먼츠 결제
+## Rhymix NICEPAY 결제모듈
 ============
 
-POESIS 모듈 생성기를 사용하여 제작한 모듈입니다.
-# rhymix_m_nicepay
+라이믹스에서 사용가능한 나이스 결제API 모듈입니다
