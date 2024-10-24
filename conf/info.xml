@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="0.2">
+	<title xml:lang="ko">NICE 페이먼츠 결제</title>
+	<description xml:lang="ko">NICE 페이 결제모듈입니다</description>
+	<version>1.0.0</version>
+	<date>2024-10-24</date>
+	<category>service</category>
+	<author email_address="heimishs@naver.com" link="https://withreve.com">
+		<name xml:lang="ko">위드레브</name>
+	</author>
+</module>
